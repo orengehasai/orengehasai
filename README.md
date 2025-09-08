@@ -3,4 +3,4 @@
 - 42Tokyo
 - インターン（Web保守運用 / SaaSインフラ運用）
 - 起業（AIスタートアップ)
-https://www.stepai.co.jp/
+  - https://www.stepai.co.jp/
